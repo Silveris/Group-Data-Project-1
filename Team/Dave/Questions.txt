@@ -1,0 +1,10 @@
+main question :
+ what diffrent things affects the amount of installs an app has?
+
+sub questions :
+
+- is there a corelation between free/paid and installs?
+
+- What genre of app had the greatest installs
+= Tools has 826 apps that exceed 500000000 installs. the second highest is Productivity (374)
+
