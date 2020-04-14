@@ -1,0 +1,10 @@
+Based upon an interest in technology and other interests that diverged, our group decided to investigate the Google Play App Store.  While this dataset provides many interesting bits of information, we intend to focus on the following questions:
+    Do ratings have a direct correlation to the number of reviews?
+    How is the sentiment related to the rating?
+    What genre of app had the greatest installs?
+    How is sentiment related to compared to type/price?
+    Are there any categories that stand out as outliers?
+
+In order to find out dataset, we explored a number of sites including kaggle.com, data.world, and medium.com.  After evaluating the quality of multiple datasets, we decided upon "Google Play Store Apps: Web scraped data of 10k Play Store apps for analysing the Android market." (https://www.kaggle.com/lava18/google-play-store-apps) This information includes two datasets that will be combined.  In addition, we have begun conversations about planning out any required additions and alterations of columns.
+
+Once the dataset was selected, members of the group chose a question that they were interested in investigating.  The group process will be to work individually on the assigned question, while interacting with group members, sharing roadblocks, and collaborating on data interpretation.
